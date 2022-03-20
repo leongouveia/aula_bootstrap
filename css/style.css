@@ -1,0 +1,32 @@
+.navbar {
+    background-color: rgb(87, 86, 86);
+}
+
+.quemsomos {
+    background-color: black;
+}
+
+.margin {
+    color:rgb(119, 17, 17);
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.titulos {
+    background-color: rgb(179, 137, 2);
+}
+
+.idolo {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+.bg-footer {
+    background-color: brown;
+    color: white;
+    font-family:cursive;
+    font-size: 20px;
+}
